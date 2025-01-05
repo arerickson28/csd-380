@@ -1,2 +1,4 @@
-# csd-380
-Bellevue: DevOps
+# CSD 380 DevOps
+## Contributers
+* Austen Rhyce Erickson
+* Nathan Braun
